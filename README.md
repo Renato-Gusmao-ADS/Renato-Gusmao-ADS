@@ -14,7 +14,7 @@
  
 <br>
  
-### Para meu trabalho e estudos em programação me segue a gente nas redes abaixo!
+### Para conhecer meus trabalhos e estudos em programação, visite as redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
