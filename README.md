@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Renato Gusmão 😁
+## Bem-vindo(a) ao perfil Renato Gusmão 🚀
 
  <div>
    <a href="https://github.com/Renato-Gusmao-ADS">
